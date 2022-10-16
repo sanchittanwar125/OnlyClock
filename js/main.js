@@ -1,5 +1,4 @@
 setInterval(showTime, 1000);
-alert("You are advised to maximize you screen by pressing 'f11' key on your keyboard for a better experience. Thanks");
 
 function showTime() {
 	let time = new Date();
